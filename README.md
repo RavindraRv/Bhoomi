@@ -64,7 +64,7 @@ This app is for two types of users namely farmers who need the equipment and own
   
 ## Screenshots
 
-[App Screen Recording](https://drive.google.com/file/d/1qbHDeb43IrlWxoCuAkMh2c5eQ1KbbpKW/view?usp=sharing)
+[App Screenshot](https://drive.google.com/file/d/1qbHDeb43IrlWxoCuAkMh2c5eQ1KbbpKW/view?usp=sharing)
 
 
 
