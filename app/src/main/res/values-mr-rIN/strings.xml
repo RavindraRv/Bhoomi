@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भूमि</string>
+    <string name="select_to_proceed">"पुढे जाण्यासाठी कृपया आपली भाषा निवडा "</string>
+    <string name="get_online_ordering_help">ऑनलाईन ऑर्डरिंग मदत मिळवा</string>
+    <string name="enter_your_country_code_and_phone">साइन अप करण्यासाठी किंवा लॉग इन करण्यासाठी आपला देश कोड आणि फोन नंबर प्रविष्ट करा</string>
+    <string name="create_massage">खाते तयार करा किंवा लॉगिन करा</string>
+    <string name="don_t_receive_the_otp">ओटीपी प्राप्त झाला नाही?</string>
+    <string name="get_started">सुरू करूया</string>
+    <string name="skip">वगळा</string>
+    <string name="payment">देयके</string>
+    <string name="notification">अधिसूचना</string>
+    <string name="settings">समायोजन</string>
+    <string name="location">स्थान</string>
+    <string name="my_orders">माझ्या ऑर्डर</string>
+    <string name="history">"हिस्ट्री "</string>
+    <string name="track_order">ऑर्डर ट्रॅक करा</string>
+    <string name="my_locations_btn">"माझे स्थान "</string>
+    <string name="about_btn">अॅप्लिकेशन बद्दल</string>
+    <string name="edit_profile">प्रोफाइल संपादित करा</string>
+    <string name="reset_password">पासवर्ड बदला</string>
+    <string name="change_language">भाषा बदला</string>
+    <string name="notification_settings">अधिसूचना समायोजन</string>
+    <string name="delete_account">अकाऊंट हटवा</string>
+    <string name="logout">बाहेर पडा</string>
+    <string name="select_language">कृपया आपली भाषा निवडा</string>
+    <string name="next">पुढे जा</string>
+    <string name="home">मुख्यपृष्ठ</string>
+    <string name="weather">हवामान</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="equipment">उपकरणे</string>
+    <string name="login">लॉगिन करा</string>
+    <string name="send_otp">ओटीपी पाठवा</string>
+    <string name="create_account">नवीन अकाऊंट बनवा</string>
+    <string name="already_account">आधीच अकाऊंट आहे</string>
+    <string name="forgot_pass">पासवर्ड विसरलात?</string>
+    <string name="pass">पासवर्ड</string>
+    <string name="confm_pass">पासवर्ड ची पडताळणी करा</string>
+    <string name="username">वापरकर्ता नाव</string>
+    <string name="enter_password">पासवर्ड</string>
+    <string name="remember_me">मला लक्षात ठेवा</string>
+    <string name="mobile_verification">मोबाइल पडताळणी</string>
+    <string name="Login_massage">अकाऊंट मध्ये लॉगिन करा</string>
+    <string name="enter_mobile_number">"मोबाइल नंबर प्रविष्ठ करा "</string>
+    <string name="enter_the_otp_sent_to">ला पाठवलेला ओटीपी प्रविष्ठ करा</string>
+    <string name="verify">सत्यापित करा</string>
+    <string name="sign_up">नोंदणी करा</string>
+    <string name="enter_first_name">पहिले नाव</string>
+    <string name="last_name">आडनाव</string>
+    <string name="email_id">ईमेल आयडी</string>
+    <string name="female">स्त्री</string>
+    <string name="male">पुरुष</string>
+    <string name="your_password_has_been_updated">आपला पासवर्ड बदला</string>
+    <string name="password_nupdated">पासवर्ड\\nबदलला गेला</string>
+    <string name="full_name">पूर्ण नाव</string>
+    <string name="phone_no">मोबाइल नं.</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="save">सेव्ह करा</string>
+    <string name="gallery">गॅलरी</string>
+    <string name="camera">कॅमेरा</string>
+    <string name="delete_photo">हटवा</string>
+    <string name="account">अकाउंट</string>
+    <string name="current_pass">सध्याचा पासवर्ड</string>
+    <string name="forgot_current_pass">सध्याचा पासवर्ड विसरलात?</string>
+    <string name="my_equipment">माझी उपकरणे</string>
+    <string name="start_work">काम सुरु करा</string>
+    <string name="booking_id">बुकिंग आयडी :</string>
+    <string name="work_finish">कार्य समाप्त</string>
+    <string name="locaization" translatable="false">आपल्या ज्ञात भाषेमध्ये ॲप भाषा बदला</string>
+    <string name="location_weather" translatable="false">आपले स्थान सेट करा आणि हवामान तपशील मिळवा!</string>
+    <string name="owner_feature" translatable="false">स्वत: ला मालक म्हणून नोंदणी करा, आपली उपकरणे जोडा आणि त्यांना शेतकर्‍यांना भाड्याने द्या!</string>
+    <string name="find_equipment" translatable="false">भाड्याने उपकरणे घ्या, ते वापरा आणि मालकाकडे परत करा!</string>
+    <string name="orders_history" translatable="false">येथे आपण सेवा दिलेल्या ऑर्डरचा इतिहास पाहू शकता</string>
+    <string name="income_status" translatable="false">येथे आपण ऑर्डरमधून आपले एकूण उत्पन्न पाहू शकता</string>
+    <string name="enable" translatable="false">सक्षम करा</string>
+    <string name="enable_gps_sevice" translatable="false">GPS सेवा सक्षम करा</string>
+    <string name="confirm" translatable="false">पुष्टी</string>
+    <string name="transport" translatable="false">वाहतूक</string>
+    <string name="seeds" translatable="false">"बियाणे "</string>
+    <string name="market_price" translatable="false">"बाजारभाव "</string>
+    <string name="fertilizer" translatable="false">"खते "</string>
+    <string name="user_information" translatable="false">वापरकर्त्यांची माहिती</string>
+    <string name="oops_no_data" translatable="false">अरेरे डेटा नाही !!</string>
+    <string name="pimpri_khurd" translatable="false">"पिंपरी खुर्द "</string>
+    <string name="select_date" translatable="false">तारीख निवडा:</string>
+    <string name="select_time" translatable="false">वेळ निवडा :</string>
+    <string name="return_date" translatable="false">परतीची तारीख :</string>
+    <string name="name" translatable="false">"नाव : "</string>
+    <string name="user_details" translatable="false">वापरकर्त्याचा तपशील :</string>
+    <string name="_20_in_used" translatable="false">20+ वापरले</string>
+    <string name="result_available" translatable="false">उपलब्ध निकाल</string>
+    <string name="sorry_we_don_t_have_a_information" translatable="false">क्षमा करा, आमच्याकडे माहिती नाही</string>
+    <string name="model_year" translatable="false">मॉडेल वर्ष :</string>
+    <string name="government_scheme" translatable="false">शासकीय योजना</string>
+    <string name="farmer_guide" translatable="false">शेतकरी मार्गदर्शक</string>
+    <string name="orders">"ऑर्डर्स "</string>
+    <string name="help">"मदत "</string>
+    <string name="about_us">आमच्या विषयी</string>
+    <string name="rate_us">आम्हाला रेट करा</string>
+    <string name="feedback">"अभिप्राय "</string>
+    <string name="Home">मुख्यपृष्ठ</string>
+    <string name="Profile" translatable="false">"प्रोफाइल "</string>
+    <string name="communicate">संवाद</string>
+    <string name="share">सामायिक करा</string>
+    <string name="krishi_sarathi" translatable="false">भूमि</string>
+    <string name="government_scheme_fragment" translatable="false">"शासकीय योजना फ्रेगमेंट "</string>
+    <string name="about_us_fragment">आमच्या विषयी फ्रेगमेंट</string>
+    <string name="farmer_guide_fragment">शेतकरी मार्गदर्शक फ्रेगमेंट</string>
+    <string name="feedback_fragment">अभिप्राय फ्रेगमेंट</string>
+    <string name="YourOrders">आपले ऑर्डर्स</string>
+    <string name="help_fragment">मदत फ्रेगमेंट</string>
+    <string name="location_fragment">स्थान फ्रेगमेंट</string>
+    <string name="orders_fragment">ऑर्डर्स फ्रेगमेंट</string>
+    <string name="rate_us_fragment">आम्हाला रेट करा फ्रेगमेंट</string>
+    <string name="share_fragment">सामायिक करा फ्रेगमेंट</string>
+    <string name="Home_fragment">मुख्यपृष्ठ फ्रेगमेंट</string>
+    <string name="profile_fragment">प्रोफाइल फ्रेगमेंट</string>
+    <string name="equipment_owner">उपकरण मालक</string>
+    <string name="equipment_owner_fragment" translatable="false">उपकरण मालक फ्रेगमेंट</string>
+    <string name="textview" translatable="false">मजकूर दृश्य</string>
+    <string name="farmer">"शेतकरी "</string>
+    <string name="add_location">स्थान जोडा</string>
+    <string name="categories">कॅटेगरीज</string>
+    <string name="updates">"अपडेट "</string>
+    <string name="add_equipment" translatable="false">उपकरण ऐड करा</string>
+    <string name="choose_the_equipment_that_you_rent" translatable="false">"आपण भाड्याने घेतलेली उपकरणे निवडा "</string>
+    <string name="machine_company_name" translatable="false">मशीन कंपनीचे नाव</string>
+    <string name="which_year_of_model" translatable="false">"कोणत्या मॉडेलचे वर्ष "</string>
+    <string name="submit" translatable="false">"सबमिट "</string>
+    <string name="do_you_have_tractor" translatable="false">आपल्याकडे ट्रॅक्टर आहे का?</string>
+    <string name="yes" translatable="false">होय</string>
+    <string name="how_many" translatable="false">" किती?"</string>
+    <string name="do_you_have_equipment" translatable="false">आपल्याकडे उपकरणे आहेत का?</string>
+    <string name="registration" translatable="false">नोंदणी</string>
+    <string name="hi_do_you_want_to_be_a_partner_in_krishi_sarathi_if_yes_registration_process_as_below" translatable="false">नमस्कार, तुम्हाला भूमिमध्ये भागीदार व्हायचे आहे का?  असल्यास, नोंदणी प्रक्रिया खालीलप्रमाणे आहे</string>
+    <string name="owner_details" translatable="false">मालकाचा तपशीलः</string>
+    <string name="owner_id" translatable="false">मालक आयडी:</string>
+    <string name="equi_details" translatable="false">उपकरणाचा तपशील:</string>
+    <string name="company" translatable="false">कंपनी</string>
+    <string name="equipment_colon" translatable="false">उपकरणे</string>
+    <string name="model_year_colon" translatable="false">" मॉडेल वर्ष"</string>
+    <string name="fill_user_details" translatable="false">वापरकर्त्याचे तपशील भरा:</string>
+    <string name="address" translatable="false">पत्ता</string>
+    <string name="city" translatable="false">शहर</string>
+    <string name="city_code" translatable="false">शहर कोड</string>
+    <string name="payment1" translatable="false">देय</string>
+    <string name="done" translatable="false">पूर्ण झाले</string>
+    <string name="cultivator" translatable="false">"लागवड करणारा "</string>
+    <string name="hi" translatable="false">हाय</string>
+    <string name="user" translatable="false">"वापरकर्ता "</string>
+    <string name="register" translatable="false">नोंदणी करा</string>
+    <string name="rent_price" translatable="false">भाड्याची किंमत</string>
+    <string name="shipping_charges" translatable="false">शिपिंग शुल्क</string>
+    <string name="total_price" translatable="false">एकूण किंमत</string>
+    <string name="payment_methods" translatable="false">देय द्यायच्या पद्धतीः</string>
+    <string name="cash_on_delivery" translatable="false">घरपोच दिल्यावर रोख रक्कम:</string>
+    <string name="upi" translatable="false">यूपीआय</string>
+    <string name="debit_credit" translatable="false">"डेबिट / क्रेडिट कार्ड "</string>
+    <string name="book_equi" translatable="false">बुक उपकरणे</string>
+    <string name="resend_otp" translatable="false">पुन्हा पाठवा ओटीपी</string>
+    <string name="renting_price" translatable="false">भाड्याने देण्याची किंमत:</string>
+    <string name="desc" translatable="false">वर्णन</string>
+    <string name="equi_name_and_more" translatable="false">" उपकरणाचे नाव आणि बरेच काही"</string>
+    <string name="search_elements" translatable="false">येलीमेंत शोधा</string>
+    <string name="min" translatable="false">"किमान "</string>
+    <string name="max" translatable="false">कमाल</string>
+    <string name="humidity" translatable="false">"आर्द्रता "</string>
+    <string name="wind" translatable="false">वारा</string>
+    <string name="reload" translatable="false">रीलोड करा</string>
+    <string name="income" translatable="false">उत्पन्न</string>
+    <string name="request" translatable="false">विनंती</string>
+    <string name="move_to_user" translatable="false">" वापरकर्ता क्रियापटलावर जाणे"</string>
+    <string name="move_to_owner" translatable="false">मालक क्रियापटलावर जाणे</string>
+    <string name="track_notifications">ट्रॅक अधिसूचना</string>
+    <string name="account_activity">अकाऊंट अॅक्टिविटी</string>
+    <string name="new_for_you">तुमच्यासाठी नवीन</string>
+</resources>

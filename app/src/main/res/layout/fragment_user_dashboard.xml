@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Common.Dashboard.UserDashboardFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layoutHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_dashboard_header"
+            android:padding="15dp">
+
+            <TextView
+                android:id="@+id/Bhoomi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-black"
+                android:gravity="center"
+                android:text="@string/app_name"
+                android:textColor="@color/colorWhite"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toStartOf="@+id/icon_notification"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/icon_notification"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/icon_notifications"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_goneMarginEnd="10dp"
+                app:tint="@color/black"
+                tools:ignore="MissingConstraints">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/enterUserSession"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/icon_profile"
+                android:visibility="visible"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_goneMarginEnd="10dp"
+                app:tint="@color/black" />
+
+            <ImageView
+                android:id="@+id/loctionAdd"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/icon_add_location"
+                android:layout_marginTop="10dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_goneMarginStart="14dp"
+                android:layout_marginBottom="5dp"
+                app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+                app:tint="#423E3E"
+                tools:ignore="ContentDescription,MissingConstraints" />
+
+            <ProgressBar
+                android:id="@+id/dasboardProgress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="42dp"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/locationTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:background="@null"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="5dp"
+                android:importantForAutofill="no"
+                android:textColor="@color/colorAccent"
+                android:textSize="15sp"
+                android:textStyle="italic"
+                app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:text="@string/add_location"
+                app:layout_constraintTop_toBottomOf="@+id/Bhoomi"
+                app:layout_constraintVertical_bias="0.957"
+                app:layout_constraintStart_toEndOf="@+id/loctionAdd"
+                tools:ignore="HardcodedText,MissingConstraints,RtlSymmetry" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/backgorund_white_round_corners"
+                android:gravity="center"
+                android:orientation="horizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintCircleRadius="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:ignore="MissingConstraints,UnknownId">
+
+                <ImageView
+                    android:layout_width="63dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@string/todo"
+                    android:padding="6dp"
+                    android:src="@drawable/icon_search"
+                    app:tint="@color/purple_500" />
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="Search For...."
+                    android:imeOptions="actionSearch"
+                    android:importantForAutofill="no"
+                    android:inputType="text"
+                    android:paddingStart="15dp"
+                    android:paddingLeft="15dp"
+                    android:paddingEnd="15dp"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText,RtlSymmetry" />
+
+                <ImageView
+                    android:layout_width="63dp"
+                    android:layout_height="40dp"
+                    android:background="@null"
+                    android:contentDescription="@string/todo"
+                    android:padding="6dp"
+                    android:src="@drawable/icon_mic"
+                    app:tint="@color/purple_500" />
+
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <com.smarteist.autoimageslider.SliderView
+            android:id="@+id/imageSlider"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:sliderAnimationDuration="3000"
+            app:sliderAutoCycleDirection="back_and_forth"
+            app:sliderAutoCycleEnabled="true"
+            app:sliderIndicatorAnimationDuration="3000"
+            app:sliderIndicatorGravity="center_horizontal|bottom"
+            app:sliderIndicatorMargin="15dp"
+            app:sliderIndicatorOrientation="horizontal"
+            app:sliderIndicatorPadding="3dp"
+            app:sliderIndicatorRadius="2dp"
+            app:sliderIndicatorSelectedColor="#5A5A5A"
+            app:sliderIndicatorUnselectedColor="#FFF"
+            app:sliderScrollTimeInSec="1"
+            android:layout_below="@id/layoutHeader"
+            android:background="@drawable/background_dashboard"
+            app:sliderStartAutoCycle="true" />
+
+        <LinearLayout
+            android:background="@drawable/background_dashboard"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/imageSlider"
+            android:orientation="vertical"
+            android:layout_marginBottom="50dp"
+            android:paddingTop="10dp">
+
+
+            <TextView
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:text="@string/categories"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <GridView
+                android:id="@+id/gridView1"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:numColumns="3"
+                android:elevation="8dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="10dp"
+                tools:ignore="UnusedAttribute">
+            </GridView>
+
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d4ce55b-9d89-436a-8c92-80bbc229c629" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/AppCompat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/ContainerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Dashboard/GridItemActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Dashboard/GridviewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Dashboard/SliderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Dashboard/UserDashboardFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/GetAddressFormLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Localization/LanguageAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Localization/LanguageDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Localization/LanguageList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Localization/LocaleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Localization/SelectLanguage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/Forgot_Selection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/Model/User_Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/Reset_Password.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/Send_Otp_Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/Successful_create.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/UserSignIn_page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/User_Forgot_Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/User_SignUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/LoginSignup/Verify_Otp_page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/YourOrdersActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/about_usfragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/farmer_guidefragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/feedbackfragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/government_schemefragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/helpfragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/rate_usfragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Navigation/sharefragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/OnBoarding/OnBoarding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/OnBoarding/SliderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/SharedPreferences/IntroPref.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/ShowEquipment/Adapter/MyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/ShowEquipment/Adapter/OwnerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/ShowEquipment/AgriEquipmentFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/ShowEquipment/EquiDetailsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/ShowEquipment/Model/MyModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/ShowEquipment/Model/OwnerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/SplashScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Weather/ApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Weather/ApiInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Weather/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Weather/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Weather/Weather.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Weather/WeatherFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Common/Weather/Wind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Adapter/Accept_request_adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Adapter/Equip_add_adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Adapter/Equipment_Request_adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Adapter/MyEquiAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Adapter/ViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/Fragment/EquipmentRequestAccept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/Fragment/Equipment_Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/Fragment/Equipment_Request_To_Owner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/Fragment/History_Of_Working.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/Fragment/Income_status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/Fragment/OwnerSettingsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/Fragment/Req_accpt_com.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Dashbord/OwnerContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Equipment/EquipmentGetInfoFromOwner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Equipment/Equipment_Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Model/AcceptReq_model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Model/Booking_request_model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Model/Equipment_add_model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Model/Equipment_info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Model/OwnerData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/MyEquipmentFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/OwnerLoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Owner_RegistrationActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/Owner/Owner_Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/ResetPassUsingCurrentPass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/Booking/BookingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/Booking/Model/OrderModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/Booking/PaymentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/EditProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/UserProfileFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/UserSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/AcceptedFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/Adapter/AcceptedAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/Adapter/HistoryAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/Adapter/PendingAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/Adapter/YourOrderFragmentAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/HistoryFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/Model/AcceptedModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/Model/PendingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejaswininimbalkar/krishisarathi/User/YourOrders/PendingFragment.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QBSDDYo0M0VDHhKyWVUUFPZYRG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "E:/Krishi-Sarathi",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d4ce55b-9d89-436a-8c92-80bbc229c629" name="Changes" comment="" />
+      <created>1684825362081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684825362081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
