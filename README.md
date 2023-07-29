@@ -59,21 +59,12 @@ This app is for two types of users namely farmers who need the equipment and own
   
 ## Documentation
 
-[Documentation](https://drive.google.com/file/d/1h7a5t_MWl6fAZeo1s538e1xml52j31rp/view?usp=sharing)
+[Documentation]((https://drive.google.com/file/d/1jG3JAI_rhyvO5V5fY9TJG3Z4t37N8DY_/view?usp=sharing))
 
   
 ## Screenshots
 
-[App Screen Recording](https://drive.google.com/file/d/1LxQPV-utq39t85pwzh25pgztDdIy265I/view?usp=sharing)
-
-[Localization](https://drive.google.com/file/d/1Ygrzos2g_DUC00wy76xdYA3WJyCeIuvJ/view?usp=sharing)
-
-  
-## Deployment
-
-APK of the project:
-
-[APK](https://github.com/TejaswiniNimbalkar14/Krishi-Sarathi/blob/master/app-debug.apk)
+[App Screen Recording]((https://drive.google.com/file/d/1qbHDeb43IrlWxoCuAkMh2c5eQ1KbbpKW/view?usp=sharing))
 
 
 
