@@ -59,12 +59,12 @@ This app is for two types of users namely farmers who need the equipment and own
   
 ## Documentation
 
-[Documentation]((https://drive.google.com/file/d/1jG3JAI_rhyvO5V5fY9TJG3Z4t37N8DY_/view?usp=sharing))
+[Documentation](https://drive.google.com/file/d/1jG3JAI_rhyvO5V5fY9TJG3Z4t37N8DY_/view?usp=sharing)
 
   
 ## Screenshots
 
-[App Screen Recording]((https://drive.google.com/file/d/1qbHDeb43IrlWxoCuAkMh2c5eQ1KbbpKW/view?usp=sharing))
+[App Screen Recording](https://drive.google.com/file/d/1qbHDeb43IrlWxoCuAkMh2c5eQ1KbbpKW/view?usp=sharing)
 
 
 
